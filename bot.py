@@ -35,7 +35,7 @@ def main():
         "Avellino", "Bari", "Barletta", "Belluno", "Benevento", "Bergamo", "Biella", 
         "Bologna", "Bolzano", "Brescia", "Brindisi", "Cagliari", "Caltanissetta", 
         "Campobasso", "Caserta", "Catania", "Catanzaro", "Chieti", "Como", "Cosenza", 
-        "Cremona", "Crotone", "Cuneo", "Enna", "Ferrara", "Firenze", "Foggia", "Forlì", 
+        "Cremona", "Crotone", "Cuneo", "Enna", "Ferrara", "Firenze", "Foggia", "FORLI`", 
         "Frosinone", "Genova", "Gorizia", "Grosseto", "Imperia", "Isernia", "l`aquila", 
         "La Spezia", "Latina", "Lecce", "Lecco", "Livorno", "Lodi", "Lucca", "Macerata", 
         "Mantova", "Massa", "Matera", "Messina", "Milano", "Modena", "Napoli", "Novara", 
