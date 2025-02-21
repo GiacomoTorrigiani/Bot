@@ -36,7 +36,7 @@ def main():
         "Bologna", "Bolzano", "Brescia", "Brindisi", "Cagliari", "Caltanissetta", 
         "Campobasso", "Caserta", "Catania", "Catanzaro", "Chieti", "Como", "Cosenza", 
         "Cremona", "Crotone", "Cuneo", "Enna", "Ferrara", "Firenze", "Foggia", "Forlì", 
-        "Frosinone", "Genova", "Gorizia", "Grosseto", "Imperia", "Isernia", "L'Aquila", 
+        "Frosinone", "Genova", "Gorizia", "Grosseto", "Imperia", "Isernia", "l`aquila", 
         "La Spezia", "Latina", "Lecce", "Lecco", "Livorno", "Lodi", "Lucca", "Macerata", 
         "Mantova", "Massa", "Matera", "Messina", "Milano", "Modena", "Napoli", "Novara", 
         "Nuoro", "Oristano", "Padova", "Palermo", "Parma", "Pavia", "Perugia", "Pesaro", 
@@ -44,7 +44,7 @@ def main():
         "Ragusa", "Ravenna", "Reggio Calabria", "Reggio Emilia", "Rieti", "Rimini", 
         "Roma", "Rovigo", "Salerno", "Sassari", "Savona", "Siena", "Siracusa", "Sondrio", 
         "Taranto", "Teramo", "Terni", "Torino", "Trapani", "Trento", "Treviso", "Trieste", 
-        "Udine", "Varese", "Venezia", "Verbano-Cusio-Ossola", "Vercelli", "Verona", 
+        "Udine", "Varese", "Venezia", "Verbano Cusio Ossola", "Vercelli", "Verona", 
         "Vibo Valentia", "Vicenza", "Viterbo"
     ]
     
