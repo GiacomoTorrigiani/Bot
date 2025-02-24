@@ -1,16 +1,54 @@
 server {
     listen 80;
+    listen 443 ssl;
     server_name torrisito.it www.torrisito.it;
+
+    # Certificati SSL (necessari per gli asset HTTPS)
+    ssl_certificate /etc/letsencrypt/live/torrisito.it/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/torrisito.it/privkey.pem;
+
+    # Configurazioni aggiuntive per la riscrittura
+    proxy_set_header Accept-Encoding "";  # Disabilita compressione per permettere sub_filter
+    sub_filter_types *;  # Applica sub_filter a tutti i tipi di contenuto
+    sub_filter_once off;
 
     location / {
         proxy_pass https://www.xbox.com;
         proxy_set_header Host www.xbox.com;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Referer https://www.xbox.com;
+        proxy_set_header Origin https://www.xbox.com;
 
-        # Riscrittura dei link
-        sub_filter 'https://www.xbox.com' 'https://torrisito.it';
-        sub_filter 'http://www.xbox.com' 'http://torrisito.it';
-        sub_filter_once off;
+        # Riscrittura URL principali
+        sub_filter 'www.xbox.com' 'torrisito.it';
+        sub_filter 'xbox.com' 'torrisito.it';
+        sub_filter '//assets-www.xbox.com' '//torrisito.it/xbox-assets';
     }
+
+    # Gestione specifica degli asset
+    location /xbox-assets/ {
+        proxy_pass https://assets-www.xbox.com/;
+        proxy_set_header Host assets-www.xbox.com;
+        proxy_ssl_server_name on;
+
+        # Risolvi CORS
+        add_header 'Access-Control-Allow-Origin' 'https://torrisito.it';
+        add_header 'Access-Control-Allow-Methods' 'GET, OPTIONS';
+    }
+
+    # Fix per WebSocket
+    location /_next/webpack-hmr {
+        proxy_pass https://www.xbox.com/_next/webpack-hmr;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+    }
+
+    # Abilita cache per gli asset
+    proxy_cache xbox_cache;
+    proxy_cache_key "$scheme$request_method$host$request_uri";
+    proxy_cache_valid 200 302 10m;
+    proxy_cache_valid 404      1m;
 }
