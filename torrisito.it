@@ -7,6 +7,10 @@ server {
         proxy_set_header Host www.xbox.com;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        # Opzionale: gestione di eventuali websocket o header specifici
+
+        # Riscrittura dei link
+        sub_filter 'https://www.xbox.com' 'https://torrisito.it';
+        sub_filter 'http://www.xbox.com' 'http://torrisito.it';
+        sub_filter_once off;
     }
 }
