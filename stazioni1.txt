@@ -1,0 +1,306 @@
+Agrigento Bassa S12213
+Agrigento Centrale S12216
+Alessandria S00470
+Ancona S07113
+Ancona Marittima S07116
+Ancona Stadio S07114
+Ancona Torrette S07015
+Aosta S00137
+Aosta Istituto S00143
+Aosta Viale Europa S00146
+Arezzo S06915
+Arezzo C.C. S06086
+Arezzo Pescaiola S06063
+Ascoli Piceno S07550
+Asti S00462
+Avellino S09514
+Bari Centrale S11119
+Bari Torre Quetta S11004
+Bari Palese Macchie S11118
+Bari Parco Nord S11148
+Bari Parco Nord Fascio Taranto S11149
+Bari Parco Sud S11125
+Bari S. Spirito S11116
+Bari S.Andrea S11513
+Bari S.Giorgio S11150
+Bari Torre A Mare S11126
+Bari Villaggio Del Lavoratore S11003
+Bari Zona Industriale S11120
+Baricetta S05419
+Barile S11208
+Barletta S11108
+Belluno S02559
+Benevento S09311
+Benevento Acquafredda S09472
+Benevento Appia S09011
+Benevento Arco Traiano S09530
+Benevento Porta Rufina S09509
+Benevento Rione Liberta' S09012
+Bergamo S01529
+Biella Chiavazza S00970
+Biella S.Paolo S00070
+Bologna Rimesse S05989
+Bologna Via Larga S05991
+Bologna C.Le S05043
+Bologna Borgo Panigale S05100
+Bologna C.Le/Av S05046
+Bologna Corticella S05725
+Bologna Fiere S05020
+Bologna Mazzini S05140
+Bologna Ravone S05042
+Bologna S.Ruffillo S05130
+Bologna San Vitale S05081
+Bolzano  S02026
+Bolzano Novarese S00014
+Bolzano Sud  S02226
+Brescia S01717
+Brindisi S11136
+Brindisi Di Montagna S11451
+Brindisi Marittima S11137
+Cagliari S12891
+Cagliari Elmas S12890
+Caltanissetta Centrale S12381
+Caltanissetta Xirbi S12380
+Campobasso S09459
+Caserta S09211
+Catania Acquicella S12337
+Catania Aer. Fontanarossa S12336
+Catania Centrale S12332
+Catania Europa S12335
+Catania Ognina S12333
+Catanzaro S11956
+Catanzaro Lido S11833
+Chieti S07712
+Chieti-Mad.D.P. S07025
+Como Camerlata S01308
+Como S. Giovanni S01307
+Cosenza S11910
+Cremona S01915
+Crotone S11823
+Cuneo S00610
+Cuneo Gesso S00611
+Enna S12238
+Ferrara Boschetto S05196
+Ferrara-Cona Ospedale S05193
+Ferrara S05712
+Ferrara Aleotti S05167
+Ferrara P. Reno S05168
+Firenze S.M.N. S06421
+Firenze Campo Marte S06900
+Firenze Castello S06419
+Firenze Rifredi S06420
+Firenze Statuto S06430
+Foggia S11100
+Forli` S05059
+Frosinone S08662
+Genova P.Principe S04700
+Genova Acquasanta S04107
+Genova Bolzaneto S04218
+Genova Borzoli S04109
+Genova Brignole S04702
+Genova Cornigliano S04538
+Genova Costa Di Sestri Ponente S04110
+Genova Granara S04108
+Genova Marittima S. Limbania S04603
+Genova Nervi S04707
+Genova P. Principe Sotterranea S04701
+Genova Pegli S04536
+Genova Pontedecimo S04217
+Genova Pra S04535
+Genova Quarto Dei Mille S04704
+Genova Quinto Al Mare S04705
+Genova Rivarolo S04219
+Genova S.Biagio S04222
+Genova Sampierdarena S04220
+Genova San Quirico S04213
+Genova Sestri Ponente S04537
+Genova Sturla S04703
+Genova Vesima S04540
+Genova Via Di Francia S04223
+Genova Voltri S04534
+Genova Voltri Mare S04541
+Gorizia Centrale S03304
+Grosseto S06039
+Imperia S04523
+Isernia S09053
+L`Aquila S07414
+La Spezia Centrale S06000
+La Spezia Migliarina S06004
+Latina S08608
+Lecce S11145
+Lecco S01520
+Lecco Maggianico S01522
+Livorno Centrale S06725
+Livorno Ferraris S00237
+Lodi S01825
+Lucca S06404
+Macerata S07307
+Macerata Fontescodella S07313
+Macerata Universita' S07314
+Mantova S02336
+Mantova Frassine S02380
+Massa Centro S06009
+Massafiscaglia S05179
+Massafra S11510
+Massalombarda S05952
+Massarosa Bozzano S06350
+Messina Centrale S12301
+Messina Marittima S12300
+Milano Centrale S01700
+Milano Affori S01078
+Milano Bovisa Fnm S01642
+Milano Bruzzano S01079
+Milano Certosa S01640
+Milano Dateo S01650
+Milano Farini S01644
+Milano Forlanini S01492
+Milano Greco Pirelli S01326
+Milano Lambrate S01701
+Milano Lancetti S01643
+Milano Nord Cadorna S01066
+Milano Nord Domodossola S01067
+Milano Nord Quarto Oggiaro  S01069
+Milano Porta Garibaldi S01645
+Milano Porta Romana S01632
+Milano Porta Vittoria S01633
+Milano Repubblica S01648
+Milano Rogoredo S01820
+Milano Romolo S01032
+Milano S. Cristoforo S01630
+Milano Tibaldi S01022
+Milano Venezia S01649
+Milano Villapizzone S01639
+Modena Piazza Manzoni S05188
+Modena S05032
+Napoli Centrale S09218
+Napoli Afragola S09988
+Napoli Campi Flegrei S09103
+Napoli Gianturco S09110
+Napoli Mergellina S09105
+Napoli Montesanto S09107
+Napoli Piazza Garibaldi S09109
+Napoli Piazza Leopardi S09104
+Napoli S.Giov.Barra S09800
+Napoli Scalo Merci S09010
+Napoli Traccia S09220
+Novara S00248
+Novara Ferrovia Nord Milano S00023
+Novara Montalbano Furnari S12039
+Oristano S12878
+Padova S02581
+Padova Campo Marte S02650
+Palermo Centrale S12002
+Palermo Brancaccio S12055
+Palermo Liberta' S12075
+Palermo Notarbartolo S12134
+Parma S05014
+Pavia S01860
+Pavia Porta Garibaldi S01861
+Perugia S07004
+Perugia Ponte S.Giovanni S07005
+Perugia Silvestrini S07013
+Perugia Universita' S07006
+Pesaro S07104
+Pescara S07810
+Pescara Porta Nuova S07811
+Pescara S. Marco S07017
+Piacenza S05000
+Pisa Binari Aeroporto S06450
+Pisa Centrale S06500
+Pisa San Rossore S06501
+Pistoia S06414
+Pistoia Ovest S05151
+Pordenone S02701
+Potenza Centrale S11420
+Potenza Macchia Romana S11215
+Potenza Picena Montelupone S07505
+Potenza Superiore S11217
+Pratofontana S05947
+Prato Borgonuovo S06426
+Prato Centrale S06416
+Prato Porta Al Serraglio S06422
+Prato Sesia S00108
+Prato Tires S02024
+Pratola Peligna S07700
+Pratola Peligna Superiore S07601
+Pratovecchio S06072
+Pratovecchio Stia S06071
+Ragusa S12414
+Ragusa Ibla S12416
+Ravenna S05811
+Reggio Calabria Centrale S11781
+Reggio Calabria Lido S11780
+Reggio Emilia S05023
+Reggio Emilia Av S05254
+Rieti S07405
+Rimini S05071
+Rimini Miramare S07100
+Rimini Torre Pedrera S05819
+Rimini Viserba S05820
+Riminifiera S05057
+Roma Termini S08409
+Roma Aurelia S08025
+Roma Balduina S08327
+Roma Casilina S08674
+Roma Monte Mario S08322
+Roma Nomentana L.L. S08236
+Roma Nomentana Lm S08232
+Roma Ostiense S08406
+Roma Prenestina S08500
+Roma S.Filippo Neri S08325
+Roma S.Pietro S08323
+Roma Tiburtina S08217
+Roma Trastevere S08405
+Roma Tuscolana S08408
+Romagnano Sesia S00109
+Romagnano V. S09829
+Romano S01711
+Romanore S02337
+Rovigo S05706
+Salerno S09818
+Salerno Irno S09799
+Sassari S12807
+Savona S04801
+Savona Marittima S04800
+Siena S06809
+Siena Zona Industriale S06867
+Siracusa S12349
+Siracusa M. S12351
+Sondrio S01430
+Taranto S11465
+Teramo S07900
+Terni S07226
+Terni Cospea S07430
+Torino P.Nuova S00219
+Torino Aeroporto S00088
+Torino C.So Grosseto S00097
+Torino Dora S00224
+Torino Lingotto S00452
+Torino Porta Susa S00035
+Torino Rebaudengo Fossata S00060
+Torino S. Paolo S00223
+Torino Stura S00228
+Trapani S12100
+Trento S02038
+Treviso C. S02712
+Trieste Airport S03213
+Trieste Aquilinia S03856
+Trieste Centrale S03317
+Trieste Servola S03854
+Udine S03026
+Varese S01205
+Venezia Santa Lucia S02593
+Venezia Carpenedo S02672
+Venezia Marghera Scalo S02515
+Venezia Marittima S02594
+Venezia Mestre S02589
+Venezia Mestre Ospedale S02517
+Venezia Porto Marghera S02592
+Vercelli S00245
+Verona Porta Nuova S02430
+Verona Ca` Di David S02061
+Verona Parona S02058
+Verona Porta Vescovo S02433
+Vicenza S02446
+Viterbo Porta Fiorentina S08304
+Viterbo Porta Romana S08306

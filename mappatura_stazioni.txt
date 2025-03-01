@@ -1,0 +1,52 @@
+Trenitalia_Name|Trenitalia_Code|Italo_Name|Italo_Code
+Agrigento Bassa|S12213||
+Agrigento Centrale|S12216||
+Alessandria|S00470||
+Ancona|S07113|ancona|FF_
+Aosta|S00137||
+Arezzo|S06915||
+Ascoli Piceno|S07550||
+Avellino|S09514||
+Bari Centrale|S11119|bari|BAC
+Barletta|S11108|barletta|BLT
+Benevento|S09311|benevento|BEN
+Bergamo|S01529|bergamo|BGM
+Bologna Centrale|S05043|bologna|BC_
+Bolzano|S02026|bolzano|BLZ
+Brescia|S01717|brescia|BSC
+Brindisi|S11136||
+Cagliari|S12891||
+Caserta|S09211|caserta|CEA
+Catania Centrale|S12332||
+Ferrara|S05712|ferrara|F__
+Firenze S.M.N.|S06421|firenze-santa-maria-novella|SMN
+Foggia|S11100|foggia|FG_
+Genova Brignole|S04702|genova-brignole|GB_
+Genova P.Principe|S04700|genova-piazza-principe|G__
+Lamezia Terme Centrale|S11833|lamezia-terme-centrale|LON
+Milano Centrale|S01700|milano-centrale|MC_
+Napoli Centrale|S09218|napoli-centrale|NAC
+Padova|S02581|padova|PD_
+Palermo Centrale|S12002||
+Pisa Centrale|S06500|pisa|22187
+Reggio Calabria|S11781|reggio-calabria|RCE
+Reggio Emilia|S05023|reggio-emilia-av|AAV
+Roma Termini|S08409|roma-termini|RMT
+Roma Tiburtina|S08217|roma-tiburtina|RTB
+Salerno|S09818|salerno|SAL
+Torino Porta Nuova|S00219|torino-porta-nuova|TOP
+Trieste Centrale|S03317|trieste|TSC
+Venezia Mestre|S02589|venezia-mestre|VEM
+Verona Porta Nuova|S02430|verona-porta-nuova|VPN
+Vicenza|S02446|vicenza|VIC
+Terni|S07226||
+||agropoli|AGR
+||conegliano|CON
+||desenzano|DSG
+||maratea|MRT
+||milano-rho-fiera|RRO
+||molfetta|ML_
+||paola|PAR
+||riccione|RO_
+||sapri|SRI
+||vibo-pizzo|VIP
